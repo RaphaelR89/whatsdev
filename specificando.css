@@ -1,0 +1,16 @@
+/*
+*{}====>0
+type selector ====> 1
+classes ===> 10
+id ===> 100
+inline styles ===>1000
+*/
+#second {
+  color: yellow;
+}
+p.firstp {
+  color: red;
+}
+p {
+  color: blue;
+}

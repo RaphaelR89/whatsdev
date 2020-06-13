@@ -1,0 +1,17 @@
+.outerdiv {
+    display: flex;
+}
+.prettybox {
+    background-color: #333742;
+    border: 2px solid yellow;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+}
+.largeredtext {
+    font-size: 20px;
+    color: red;
+}
+#firstprettybox {
+    color: yellow;
+}
